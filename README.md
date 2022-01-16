@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YasminKinawi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested and currently🌱 learning data analytics
 - 📫 How to reach me ... https://www.linkedin.com/in/yasmin-kinawi-94019656/ 
 
 <!---
