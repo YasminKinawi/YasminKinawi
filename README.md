@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @YasminKinawi
+- Currently in ALX software engineer program.
 - 👀 I’m interested and currently🌱 learning data analytics
 - 📫 How to reach me ... https://www.linkedin.com/in/yasmin-kinawi-94019656/ 
 
