@@ -1,6 +1,5 @@
 # 💫 About Me:
 A commerce graduate, with a background and experience in banking. <br>
-and currently enrolled in ALX software engineering program.<br>
 A data science enthusiast.<br>
 
 
